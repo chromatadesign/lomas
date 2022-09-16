@@ -15,13 +15,6 @@ $(document).ready(function () {
     clickable: true,
 
       },
-  autoplay: {
-          delay: 90000,
-    disableOnInteraction: false,
-
-      },
-  speed: 700,
-  slidesPerView: 'auto',
   loop: true,
 
         on: {
